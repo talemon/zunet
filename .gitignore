@@ -25,3 +25,5 @@
 *.ilk
 *.user
 *.ncb
+
+Debug/
